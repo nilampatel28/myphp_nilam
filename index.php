@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Google Developer Group - OpenShift</title>
+    <title>Google Developer Group - NILAM PAEL attending OpenShift Kubernetes Deployment Hands On Workshop </title>
     <style>
         body {
             background: linear-gradient(135deg, #4285F4, #34A853);
@@ -32,13 +32,13 @@
 <body>
 
     <div class="container">
-        <h1>Welcome to Google Developer Group!</h1>
+        <h1>Welcome to Google Developer Group NILAM PATEL !</h1>
 
-        <h2>Red Hat OpenShift & Kubernetes Deployments</h2>
+        <h2>Red Hat OpenShift & Kubernetes Deployments Nilam Patel Hands on Workshop </h2>
 
-        <p>Learn. Build. Deploy. Innovate.</p>
+        <p>Learn. Build. Deploy. Innovate by Nilam Patel.</p>
 
-        <p>Happy Learning and Happy Coding!</p>
+        <p>Happy Learning and Happy Coding Nilam Patel!</p>
 
         <h3>Powered by PHP</h3>
     </div>
